@@ -13,3 +13,9 @@
 
 ## Загрузка предобученной модели 
 Перед запуском необходимо [загрузить](https://drive.google.com/drive/folders/1UlZmoQKx_e6ThL9pvLV4LoqFQIqmXC5R?usp=sharing) модель, а затем добавить файл в папку `model`.
+
+## Демонстрация
+
+
+https://github.com/user-attachments/assets/427d784d-aca7-49a5-afa3-6d089a54d308
+
